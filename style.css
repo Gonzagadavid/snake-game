@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    height: 95vh;
+    width: 95;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: red;
+    background-image: url(paisagem-com-plantas.jpg);
+    background-size: 95vh;
+    background-size: 219vh;
+    font-family: CFJUNGLE-Regular;
+    font-size: 50px;
+}
+
+.titulo{
+    margin: 0%;
+}
+
+@font-face{
+    font-family: CFJUNGLE-Regular;
+    src: url(CFJUNGLE-Regular.ttf);
+}
